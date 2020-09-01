@@ -15,9 +15,9 @@ APP WILL NOT RUN WITHOUT THAT
 """
 app = Flask(__name__)
 
-number = '+12015846799'
-account_sid = "AC38d6122ad4440e455cd54b1e7fad40b5"
-auth_token = "4094841d7226ed2e6877462772d137ee"
+number = 'xxxxxxxxxxxxx'
+account_sid = "xxxxxxxxxxx"
+auth_token = "xxxxxxxxxxxx"
 previous_received = ''
 previous_sent = ''
 
